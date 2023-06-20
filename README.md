@@ -12,6 +12,8 @@ What sets me apart is my commitment to continuous learning. Actively seeking opp
 
 As a data analyst, I offer expertise in Tableau, Power BI, GCP, BigQuery, machine learning, statistics, and hypothesis testing. With a growth mindset, I am excited to drive data-driven decision-making, uncover valuable insights, and contribute to the success of organizations in the dynamic field of data analytics.
 
+You can reach out to me @ mathi.g@northeastern.edu
+
 <!---
 gogulkumar/gogulkumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
